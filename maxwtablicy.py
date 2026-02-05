@@ -1,6 +1,4 @@
 def znajdz_max(tab):
-    if not tab:
-        return None
     max_val = tab[0]
     for i in range(1, len(tab)):
         if tab[i] > max_val:
