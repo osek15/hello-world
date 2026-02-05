@@ -10,3 +10,4 @@ def znajdz_max(tab):
 if __name__ == "__main__":
     tab = [4, 6, 2, 1, 3]
     print(f"Max = {znajdz_max(tab)}")
+
